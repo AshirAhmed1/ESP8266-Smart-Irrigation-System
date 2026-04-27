@@ -1,2 +1,11 @@
-# esp8266-smart-irrigation-system
-ESP8266 IoT irrigation system with soil moisture sensing, LCD display, Blynk remote control, and automated watering. Demo in README.
+# ESP8266 Smart Irrigation System
+
+## Demo Video
+[Watch Project Demo](https://youtu.be/yMhydp0Kmmc)
+
+## Features
+- Real-time soil moisture monitoring
+- Automatic / manual pump control
+- LCD live display
+- Blynk mobile control
+- ESP8266 WiFi connectivity
